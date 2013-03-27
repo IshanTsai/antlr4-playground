@@ -1,0 +1,1 @@
+firstName = "Carsten" and lastName = "Lenz" and (age = "45" or age = "32")
